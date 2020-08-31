@@ -1,0 +1,8 @@
+<database>
+    <student attributeNum="4" primary="sno">
+        <sno>char(8)</sno>
+        <sname>char(10) unique</sname>
+        <sage>int</sage>
+        <sgender>char(1)</sgender>
+    </student>
+</database>
